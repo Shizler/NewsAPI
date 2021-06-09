@@ -1,0 +1,14 @@
+node_modules
+dist
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+logs
+package-lock.json
+tmp
+
